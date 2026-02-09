@@ -10,9 +10,7 @@ This project was created as a learning exercise to practice building real deskto
 
 ## Preview
 
-![Application Screenshot](screenshot.png)
-
-*(Replace `screenshot.png` with the name of your image file.)*
+<img width="1920" height="1048" alt="Screenshot from 2026-02-09 20-12-23" src="https://github.com/user-attachments/assets/f95cb8ed-71c3-44f1-b86f-3ef2471c4b48" />
 
 ---
 
