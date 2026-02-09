@@ -55,6 +55,6 @@ No external libraries are required.
 ### Steps
 
 ```bash
-git clone https://github.com/iftikhar69/healthmate-pro-tkinter.git
+git clone https://github.com/iftikhar69/Docter-Assistant.git
 cd healthmate-pro-tkinter
 python main.py
