@@ -56,5 +56,5 @@ No external libraries are required.
 
 ```bash
 git clone https://github.com/iftikhar69/Docter-Assistant.git
-cd healthmate-pro-tkinter
-python main.py
+cd Docter-Assistant
+Docter-app.py
